@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="mailto:ikruruto@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/kelvin-kipruto-kiru/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="tel:+254727589028"><img src="https://img.shields.io/badge/Phone-25D366?style=flat&logo=whatsapp&logoColor=white" /></a>
 </p>
 
@@ -15,8 +15,8 @@
 
 ### 🚀 About Me
 
-- 🛠️ Background spans **backend engineering**, **networking**, and **systems administration**
-- 🎮 Also explored **game development** (Unity, Unreal, Godot, Lua/GDScript)
+- 🛠️ Background spans **Backend Engineering**, **Networking**, and **Systems Administration**
+- 🎮 Also explored **Game Development** (Unity, Unreal, Godot, Lua/GDScript)
 - 🌍 Based in Nairobi, Kenya
 
 ---
@@ -70,7 +70,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KiprutoKelvin&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=KiprutoKelvin&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -92,14 +92,14 @@
 | **[MicroService-Shop](https://github.com/JumuiyaHub)** | Cloud-native e-commerce platform: Spring Boot microservices, Kafka, Kubernetes, Keycloak auth | Java 21 · Spring Boot · Angular · Kafka · K8s |
 | **[Service Now](https://gsw-ultra.vercel.app/)** | Service marketplace with M-Pesa Daraja API payments | Python · Flask · React · PostgreSQL |
 | **[Ndonyo](https://github.com/KiprutoKelvin/Ndonyo)** | E-commerce platform with search & recommendations | Django · React · SQLite |
-| **[HTTP/1.1 Reverse Proxy](https://github.com/KiprutoKelvin/reverse-proxy)** | Custom reverse proxy built from raw TCP sockets | Go |
+| **HTTP/1.1 Reverse Proxy** | Custom reverse proxy built from raw TCP sockets | Go |
 
 ---
 
 ### 📫 Reach Me
 
-- 📧 [Email Me](ikruruto@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/kelvin-kipruto-kiru/)
+- 📧 Email Me
+- 💼 LinkedIn
 - 🐙 [GitHub](https://github.com/KiprutoKelvin)
 
 <p align="center"><i>Last updated automatically via GitHub Actions ⚡</i></p>
